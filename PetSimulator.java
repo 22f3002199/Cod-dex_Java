@@ -13,7 +13,7 @@
  */
 import java.util.Scanner;
 
-public class HelloWorld{
+public class PetSimulator{
     private static int social;
     private static int hunger;
     private static int energy;
