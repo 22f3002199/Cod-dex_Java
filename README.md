@@ -10,7 +10,7 @@ This project was created as part of the Java Checkpoint Project on **Codédex**.
 
 ## 📖 Overview
 
-**Pet Simulator** is an interactive Java program that simulates caring for a pet through simple text commands. The player chooses actions like playing, eating, or sleeping, and each action affects Rover’s stats.
+[**Pet Simulator**](https://www.codedex.io/@Ajaw/build/pet-simulator) is an interactive Java program that simulates caring for a pet through simple text commands. The player chooses actions like playing, eating, or sleeping, and each action affects Rover’s stats.
 
 The game continues until the player quits—or Rover’s needs are pushed too far 😬.
 
